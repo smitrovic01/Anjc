@@ -92,6 +92,10 @@ class Anjc:
                 print("\nHvala na igranju Anjca. Pozdrav!")
             else:
                 print("Hvatanje IZUZETKA")
+    
+    def test(self):
+        return 0
+    
         
     
 if __name__ == '__main__':
