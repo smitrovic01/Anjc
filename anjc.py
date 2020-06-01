@@ -18,7 +18,7 @@ class AnjcModel:
         return self._SPIL
     
     @SPIL.setter
-    def item_type(self, new_SPIL):
+    def SPIL(self, new_SPIL):
         self._SPIL = new_SPIL
     
     def create_deck(self):
